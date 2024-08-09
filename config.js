@@ -3,4 +3,5 @@ module.exports = {
     logChannelID : "",
     categoryId : "",
     prefix : "+"
-};
+}; 
+npm i
